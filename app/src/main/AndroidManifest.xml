@@ -16,6 +16,58 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".Layout_linear_layout"
+            android:label="@string/title_activity_layout_linear_layout" >
+        </activity>
+        <activity
+            android:name=".Linear_layout_linear"
+            android:label="@string/title_activity_linear_layout_linear" >
+        </activity>
+        <activity
+            android:name=".Layout_table_layout"
+            android:label="@string/title_activity_layout_table_layout" >
+        </activity>
+        <activity
+            android:name=".Layout_grid_layout"
+            android:label="@string/title_activity_layout_grid_layout" >
+        </activity>
+        <activity
+            android:name=".Layout_relative_layout"
+            android:label="@string/title_activity_layout_relative_layout" >
+        </activity>
+        <activity
+            android:name=".Control_botones"
+            android:label="@string/title_activity_control_botones" >
+        </activity>
+        <activity
+            android:name=".Layout_texto_imagenes"
+            android:label="@string/title_activity_layout_texto_imagenes" >
+        </activity>
+        <activity
+            android:name=".Layout_checkbox_radio"
+            android:label="@string/title_activity_layout_checkbox_radio" >
+        </activity>
+        <activity
+            android:name=".Layout_spinner"
+            android:label="@string/title_activity_layout_spinner" >
+        </activity>
+        <activity
+            android:name=".Layout_listview"
+            android:label="@string/title_activity_layout_listview" >
+        </activity>
+        <activity
+            android:name=".Layout_gridview"
+            android:label="@string/title_activity_layout_gridview" >
+        </activity>
+        <activity
+            android:name=".Layout_cardview"
+            android:label="@string/title_activity_layout_cardview" >
+        </activity>
+        <activity
+            android:name=".Layout_control_pers_1"
+            android:label="@string/title_activity_layout_control_pers_1" >
+        </activity>
     </application>
 
 </manifest>

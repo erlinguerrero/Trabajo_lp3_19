@@ -3,4 +3,17 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_layout_linear_layout">Layout_linear_layout</string>
+    <string name="title_activity_linear_layout_linear">Linear_layout_linear</string>
+    <string name="title_activity_layout_table_layout">Layout_table_layout</string>
+    <string name="title_activity_layout_grid_layout">Layout_grid_layout</string>
+    <string name="title_activity_layout_relative_layout">Layout_relative_layout</string>
+    <string name="title_activity_control_botones">Control_botones</string>
+    <string name="title_activity_layout_texto_imagenes">Layout_texto_imagenes</string>
+    <string name="title_activity_layout_checkbox_radio">Layout_checkbox_radio</string>
+    <string name="title_activity_layout_spinner">Layout_spinner</string>
+    <string name="title_activity_layout_listview">Layout_listview</string>
+    <string name="title_activity_layout_gridview">Layout_gridview</string>
+    <string name="title_activity_layout_cardview">Layout_cardview</string>
+    <string name="title_activity_layout_control_pers_1">Layout_control_pers_1</string>
 </resources>
